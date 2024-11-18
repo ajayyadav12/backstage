@@ -1,5 +1,21 @@
 # @backstage/plugin-notifications-backend-module-email
 
+## 0.3.3
+
+### Patch Changes
+
+- 5d74716: Remove unused backend-common dependency
+- Updated dependencies
+  - @backstage/catalog-client@1.8.0
+  - @backstage/types@1.2.0
+  - @backstage/integration-aws-node@0.1.13
+  - @backstage/plugin-catalog-node@1.14.0
+  - @backstage/plugin-notifications-common@0.0.6
+  - @backstage/plugin-notifications-node@0.2.9
+  - @backstage/backend-plugin-api@1.0.2
+  - @backstage/catalog-model@1.7.1
+  - @backstage/config@1.2.1
+
 ## 0.3.3-next.3
 
 ### Patch Changes

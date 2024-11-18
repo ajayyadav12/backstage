@@ -1,5 +1,21 @@
 # @backstage/backend-app-api
 
+## 1.0.2
+
+### Patch Changes
+
+- 4e58bc7: Upgrade to uuid v11 internally
+- 5d74716: Remove unused backend-common dependency
+- Updated dependencies
+  - @backstage/types@1.2.0
+  - @backstage/config-loader@1.9.2
+  - @backstage/plugin-auth-node@0.5.4
+  - @backstage/cli-common@0.1.15
+  - @backstage/backend-plugin-api@1.0.2
+  - @backstage/config@1.2.1
+  - @backstage/errors@1.2.5
+  - @backstage/plugin-permission-node@0.8.5
+
 ## 1.0.2-next.2
 
 ### Patch Changes

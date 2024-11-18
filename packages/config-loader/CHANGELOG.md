@@ -1,5 +1,16 @@
 # @backstage/config-loader
 
+## 1.9.2
+
+### Patch Changes
+
+- c5e39e7: Internal refactor to use the deferred from the types package
+- Updated dependencies
+  - @backstage/types@1.2.0
+  - @backstage/cli-common@0.1.15
+  - @backstage/config@1.2.1
+  - @backstage/errors@1.2.5
+
 ## 1.9.2-next.0
 
 ### Patch Changes
